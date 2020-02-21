@@ -1,2 +1,2 @@
 # Campus Projects
-CS570 Data structure and Algorithm 
+Java projects and Erlang projects
